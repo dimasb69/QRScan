@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simple QR Scan</string>
+    <string name="button">Press QR to Start</string>
+    <string name="result">Result</string>
+    <string name="toast">Canceled</string>
+</resources>
